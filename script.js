@@ -45,7 +45,7 @@ const users = [
     company: "Infosys",
     location: "Hyderabad, Telangana, India",
     date: "Dec 10, 2025",
-    imgSrc: ''
+    imgSrc: './images/Infosys.jpg'
     }
 ];
 var userCards = '';
